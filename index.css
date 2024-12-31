@@ -101,3 +101,10 @@ p {
 .nft-attribution {
   font-weight: 400;
 }
+
+@media (min-width: 750px) {
+  .card {
+    width: 20%;
+    margin-top: 5em;
+  }
+}
